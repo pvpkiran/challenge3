@@ -9,7 +9,7 @@ const Home = () => (
     <Nav />
 
     <div className="hero">
-      <h1 className="title">Welcome to Challenge 3!</h1>
+      <h1 className="title">Welcome to Challenge 33!</h1>
       <div className="row">
         <Breaches />
       </div>
